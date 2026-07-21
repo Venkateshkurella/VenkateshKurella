@@ -12,20 +12,20 @@
 
   <!-- Badges / Visitor Count / Status -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kurellavenkatesh&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Venkateshkurella&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Education-B.Tech%20CSE-4FACFE?style=for-the-badge&logo=degree&logoColor=white" alt="Education" />
     <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   </p>
 
   <!-- Connect Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/venkateshkurella" target="_blank">
+    <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:venkateshkurella369@gmail.com">
+    <a href="mailto:your.email@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/kurellavenkatesh">
+    <a href="https://github.com/Venkateshkurella">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kurellavenkatesh&theme=darkhub&no-frame=false&no-background=true&margin-w=4&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Venkateshkurella&theme=darkhub&no-frame=false&no-background=true&margin-w=4&row=1" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -133,7 +133,7 @@
         <li><b>Tech Stack:</b> Spring Boot, Spring Data JPA, MySQL, Bootstrap, JavaScript.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/kurellavenkatesh?tab=repositories" target="_blank">
+        <a href="https://github.com/Venkateshkurella?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/View_Repository-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repository" />
         </a>
       </p>
@@ -148,7 +148,7 @@
         <li><b>Tech Stack:</b> Spring Boot, MySQL, Spring Security/Auth, Java Mail API, HTML/CSS.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/kurellavenkatesh?tab=repositories" target="_blank">
+        <a href="https://github.com/Venkateshkurella?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/View_Repository-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Repository" />
         </a>
       </p>
@@ -176,18 +176,18 @@
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=kurellavenkatesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Venkateshkurella&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurellavenkatesh&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkateshkurella&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurellavenkatesh&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshkurella&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurellavenkatesh&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkateshkurella&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" width="100%" />
       </td>
     </tr>
   </table>
@@ -198,7 +198,7 @@
 <!-- Contribution Snake Animation -->
 <div align="center">
   <h3>🐍 Contribution Snake Grid</h3>
-  <img src="https://raw.githubusercontent.com/kurellavenkatesh/kurellavenkatesh/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Venkateshkurella/Venkateshkurella/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
 </div>
 
 ---
