@@ -176,10 +176,10 @@
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Venkateshkurella&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Venkateshkurella&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkateshkurella&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=Venkateshkurella&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
