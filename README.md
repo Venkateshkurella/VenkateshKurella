@@ -173,24 +173,16 @@
 ### 📊 GitHub Analytics & Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Venkateshkurella&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Venkateshkurella&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkateshkurella&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkateshkurella&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+  <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkateshkurella&theme=tokyonight" width="49%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkateshkurella&theme=tokyonight" width="49%" alt="Repos per Language" />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkateshkurella&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" width="100%" alt="Activity Graph" />
+
 </div>
 
 <br/>
